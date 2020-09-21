@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146908960433",
+    "firebase_url": "https://flash-chat-1e6b1.firebaseio.com",
+    "project_id": "flash-chat-1e6b1",
+    "storage_bucket": "flash-chat-1e6b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146908960433:android:f0b4b52121c305609f7490",
+        "android_client_info": {
+          "package_name": "com.overdedge.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146908960433-obbkhii9h5tg83en4q6vvesb3fl3lebn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6t65XqBDwSrsLrlKWDyCYnz5OoJ_Tmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146908960433-obbkhii9h5tg83en4q6vvesb3fl3lebn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
